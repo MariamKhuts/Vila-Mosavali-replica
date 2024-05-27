@@ -29,8 +29,7 @@
               }
 body          {font-family: "Noto Sans", sans-serif; 
               }
-.home-img-sec {margin-top: 30px;
-               display: block;
-               }
-.home-img     {max-width:100%;
-                }
+.background-container {position: relative;
+                       background-image: url('images/home.jpg');
+                       background-size: cover;
+                       }
